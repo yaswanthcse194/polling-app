@@ -1,4 +1,4 @@
-export const BASE_URL = "https://polling-app-backend-0qkm.onrender.com";
+export const BASE_URL = "https://polling-app-ke30.onrender.com";
 
 // utils/apiPaths.js
 export const API_PATHS = {
