@@ -1,0 +1,65 @@
+23:06 ->@tailwindcss auth-bg-img
+		     profile:bg--img
+53:11 ->@ProfilePhotoSelector.jsx <LuTrash2 /> used insted of <LuTrash />
+
+CreatePoll.jsx 1 line is missing
+
+alignment @PRC.jsx 5:40:58
+ 
+// primary: "06b6d4" or -[text#06b6d4] or text-blue-500
+// secondary: "#EF863E" or text-[#EF863E]
+
+<div
+  className="w-full h-32 bg-cover flex justify-center relative"
+  style={{
+    background: "linear-gradient(45deg, rgba(0, 194, 255, 0.6) 25%, rgba(0, 72, 186, 0.6) 75%)",
+    boxShadow: "inset 0 0 15px rgba(0, 194, 255, 0.6)",
+    filter: "brightness(1.3) contrast(1.6)",
+  }}
+> //UserDetailsCard.jsx 
+
+Upload Image API
+Login Page
+Login and Sign Up
+Login API Integration
+Sign Up API Integration
+Dashboard
+Dashboard Layout Component
+Navbar Component
+SideMenu Component
+User Details Card
+Create Poll Page
+Create Poll Page
+Poll Option Input Component
+Poll Image Option Input Component
+Backend Poll APIs
+Poll Schema
+Create Poll API
+Get All Polls API
+Vote On Poll API
+Get Voted Polls API
+Get Poll By ID API
+Close Poll API
+Bookmark Poll API
+Get Bookmarked Polls API
+Delete Poll API
+Frontend Poll Features
+Create Poll API Integration
+Dashboard Page UI
+Filter By Poll Type Component
+Fetching All Polls
+Poll Card Component
+Poll Content Component
+Handle Submission of Vote
+Fetch Poll Details By ID
+Toggle Poll Bookmark Status
+Poll Result Content Component
+Implementing Infinite Scroll Pagination
+User Pages
+My Polls Page
+Integrating Close Poll API
+Integrating Delete Poll API
+Voted Polls Page
+Fetching Voted Polls Details
+Bookmarked Polls Page
+Trending Polls Section
